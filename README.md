@@ -71,8 +71,16 @@ Uma página de links de navegação onde terá as opções de "início", "Cadast
  
 **@Samuca**: Redireciona o usuário para a página no LinkedIn do criador da página. [@Samuca](https://linkedin.com/in/samuel-cmfarias)
  
- 
+
 ### Tecnologias utilizadas
  
 Este site foi desenvolvido com a ajuda do **Visual Studio Code** para codificação, **HTML5** para marcação de conteúdo, **CSS3** para estilização e **GitHub** para hospedagem do projeto.
+ 
+## Fontes consultadas
+
+Foi usado o bootstrap para a estrutura inicial do site e o repositório do Armstrong Lohãns para modelo de README.
+ 
+* [Bootstrap](https://getbootstrap.com) - O Modelo De Index Usado
+ 
+* [Armstrong Lohãns](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Um modelo para fazer um bom README
  
