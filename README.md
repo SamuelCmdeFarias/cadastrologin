@@ -21,7 +21,7 @@
 Uma página de links de navegação onde terá as opções de "início", "Cadastro" e "Login", além de contar com a opção "Github" que será usada para visualizar o repositório no GitHub.
  
  
- ## Introdução
+## Introdução
  
 ![image info](img/inicio.jpg)
  
@@ -46,4 +46,29 @@ Uma página de links de navegação onde terá as opções de "início", "Cadast
 ![image info](img/login.jpg)
  
 ☝️Página onde o usuário realizará o login, inserindo suas informações que foram utilizadas no Cadastro, e depois pressionará o botão "Entrar" para acessar sua conta. (Projeto futuro)
+ 
+## Funcionalidades
+ 
+**Cadastro**: Redireciona o usuário para a página de cadastro, onde ele poderá realizar o cadastro no site (Projeto futuro).
+ 
+ 
+**Login**: Redireciona o usuário para a página de Log-in, onde ele poderá acessar sua conta no site (Projeto de funcionalidade futura), caso ele tenha feito um cadastro.
+ 
+ 
+**Botão "GitHub"**: Redireciona o usuário para o repositório do GitHub.
+ 
+ 
+**Botão "Cadastrar-se"**: Cadastra o usuário no site (Projeto futuro).
+ 
+ 
+**Botão "Entrar"**: Permite o usuário entrar em sua conta. (Projeto futuro)
+ 
+ 
+ 
+**Bootstrap**: Redireciona o usuário para o site oficial do [Bootstrap](https://getbootstrap.com/)
+ 
+ 
+ 
+**@Samuca**: Redireciona o usuário para a página no LinkedIn do criador da página. [@Samuca](https://linkedin.com/in/samuel-cmfarias)
+ 
  
