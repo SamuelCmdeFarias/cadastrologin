@@ -72,3 +72,7 @@ Uma página de links de navegação onde terá as opções de "início", "Cadast
 **@Samuca**: Redireciona o usuário para a página no LinkedIn do criador da página. [@Samuca](https://linkedin.com/in/samuel-cmfarias)
  
  
+### Tecnologias utilizadas
+ 
+Este site foi desenvolvido com a ajuda do **Visual Studio Code** para codificação, **HTML5** para marcação de conteúdo, **CSS3** para estilização e **GitHub** para hospedagem do projeto.
+ 
