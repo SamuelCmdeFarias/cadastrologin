@@ -12,7 +12,7 @@
 
 [Fontes consultadas](#fontes-consultadas)
 
-[Autores](#autores)
+[Autor](#autor)
 
 # Projeto - aplicação de cadastro e login
  
@@ -83,7 +83,13 @@ Foi usado o bootstrap para a estrutura inicial do site e o repositório do Armst
 * [Bootstrap](https://getbootstrap.com) - O Modelo De Index Usado
  
 * [Armstrong Lohãns](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Um modelo para fazer um bom README
- 
-## Autores
- 
-* [_Samuel Camargo de Farias_](https://github.com/SamuelCmdeFarias)
+
+## Autor
+
+<a href="https://github.com/SamuelCmdeFarias">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/127852994?s=400&u=aa8dca012415519073ea519d6fd5800a32882bee&v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Samuel Camargo</b></sub></a> <a href="https://github.com/SamuelCmdeFarias" title="Rocketseat">🚀</a>
+
+
+❤️👋🏽.
