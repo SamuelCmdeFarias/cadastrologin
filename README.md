@@ -27,25 +27,32 @@ Uma página de links de navegação onde terá as opções de "início", "Cadast
 
 ☝️Parte inicial da página. Aqui é onde o usuário será direcionado caso selecione a opção "início" no topo da página.
  
+
 ![video info](img/menu.gif)
  
+
 ☝️Menu do site, aqui o usuário navega entre as páginas.
  
+
 ![image info](img/botao.jpg)
  
 ☝️Botão que redireciona o usuário para o repositório do GitHub para mais informações.
  
+
 ![image info](img/mencao.jpg)
  
 ☝️Local dos agradecimentos/menções, citando o autor e o local de onde foi utilizado o código fonte.
  
-![image info](img/cadastro.jpg)
+
+<img src="img/cadastro.jpg" alt="image info" width="200"/>
  
 ☝️Página onde o usuário realizará o cadastro, inserindo suas informações nos espaços em branco, de acordo com o que cada um solicita, e após isso, pressionará o botão "Cadastrar-se" para se cadastrar no site. (Projeto futuro)
  
-![image info](img/login.jpg)
+
+<img src="img/login.jpg" alt="image info" width="200"/>
  
 ☝️Página onde o usuário realizará o login, inserindo suas informações que foram utilizadas no Cadastro, e depois pressionará o botão "Entrar" para acessar sua conta. (Projeto futuro)
+ 
  
 ## Funcionalidades
  
