@@ -42,6 +42,7 @@
     <br>
     <input type="text" id="texto" name="texto">
     </p>
+    <button class="btn btn-lg btn-light fw-bold border-white bg-white">Entrar</button>
   </main>
 
   <footer class="mt-auto text-white-50">
