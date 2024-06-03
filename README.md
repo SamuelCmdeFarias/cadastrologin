@@ -84,3 +84,6 @@ Foi usado o bootstrap para a estrutura inicial do site e o repositório do Armst
  
 * [Armstrong Lohãns](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Um modelo para fazer um bom README
  
+## Autores
+ 
+* [_Samuel Camargo de Farias_](https://github.com/SamuelCmdeFarias)
