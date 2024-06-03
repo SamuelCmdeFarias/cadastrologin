@@ -22,9 +22,9 @@ Uma página de links de navegação onde terá as opções de "início", "Cadast
  
  
 ## Introdução
- 
-![image info](img/inicio.jpg)
- 
+
+<img src="img/inicio.jpg" alt="image info" width="400"/>
+
 ☝️Parte inicial da página. Aqui é onde o usuário será direcionado caso selecione a opção "início" no topo da página.
  
 ![video info](img/menu.gif)
