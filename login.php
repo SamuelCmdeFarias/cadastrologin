@@ -24,9 +24,9 @@
   <header class="mb-auto">
     <div>
       <nav class="nav nav-masthead justify-content-center float-md-end">
-        <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="index.html">Início</a>
-        <a class="nav-link fw-bold py-1 px-0" href="cadastro.html">Cadastro</a>
-        <a class="nav-link fw-bold py-1 px-0" href="login.html">Login</a>
+        <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="index.php">Início</a>
+        <a class="nav-link fw-bold py-1 px-0" href="cadastro.php">Cadastro</a>
+        <a class="nav-link fw-bold py-1 px-0" href="login.php">Login</a>
       </nav>
     </div>
   </header>
